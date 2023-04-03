@@ -1,0 +1,79 @@
+{
+  "users": {
+    "6285655620413@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 8
+    },
+    "6285856178058@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 12
+    },
+    "6282295427959@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 12
+    },
+    "6285268259939@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 12
+    },
+    "6285607848325@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 12
+    },
+    "6285606338022@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 12
+    }
+  },
+  "chats": {
+    "6285655620413@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false
+    },
+    "120363098362742515@g.us": {
+      "mute": false,
+      "antilink": false
+    },
+    "6285607848325@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false
+    },
+    "6285606338022@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false
+    }
+  },
+  "database": {},
+  "game": {
+    "tebaklagu": [],
+    "math": []
+  },
+  "settings": {
+    "6285791762177@s.whatsapp.net": {
+      "status": 0,
+      "autobio": false,
+      "templateImage": true,
+      "templateVideo": false,
+      "templateGif": false,
+      "templateMsg": false
+    },
+    "6285606338022@s.whatsapp.net": {
+      "status": 0,
+      "autobio": false,
+      "templateImage": true,
+      "templateVideo": false,
+      "templateGif": false,
+      "templateMsg": false
+    }
+  },
+  "others": {
+    "vote": []
+  },
+  "sticker": {}
+}
